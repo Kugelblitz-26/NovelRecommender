@@ -1,2 +1,2 @@
 # NovelRecommender
-Recommend similar Novel from input or user
+Recommend similar Novel from input or user.
